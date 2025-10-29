@@ -61,7 +61,7 @@ Il sistema dovrà consentire la creazione, la stampa e la visualizzazione degli 
 
 ---
 
-### 🌐 **Web Server integrato**
+###  **Web Server integrato**
 
 * Possibilità di attivare un **server web locale** (basato su Node.js o Python Flask integrato).
 * Accesso via browser (`http://ipserver:porta`) per visualizzare:
